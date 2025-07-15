@@ -22,9 +22,9 @@ Antes de executar o notebook, garanta que você tenha o seguinte ambiente config
 2.  **Ollama instalado:** Siga as instruções de instalação em [ollama.com](https://ollama.com/).
 3.  **Modelo Granite-3B baixado:** Após instalar o Ollama, execute o seguinte comando no seu terminal para baixar o modelo que usamos nos exemplos:
     ```sh
-    ollama pull granite-code:3b
+    ollama pull granite3.3:2b
     ```
-    *(Nota: Embora o código original use `granite3.3:2b`, o `granite-code:3b` é uma alternativa comum e compatível. Ajuste o nome do modelo no notebook se necessário.)*
+    *(Nota: Embora o código original use `granite3.3:2b`. Ajuste o nome do modelo no notebook se necessário.)*
 
 ## 📚 Referências e Leitura Adicional
 

@@ -1,6 +1,6 @@
 # Laboratório de Prompt Injection e Defesa em LLMs
 
-Este repositório serve como um laboratório prático e um material de apoio para o estudo de vulnerabilidades em Grandes Modelos de Linguagem (LLMs). Através de um Jupyter Notebook, demonstramos de forma clara e objetiva como ataques de **Prompt Injection** podem ocorrer e, mais importante, como implementar técnicas de defesa eficazes.
+Este repositório serve como um laboratório prático e um material de apoio para o estudo de vulnerabilidades em Grandes Modelos de Linguagem (LLMs). Através de um Jupyter Notebook, é demonstrado de forma clara e objetiva como ataques de **Prompt Injection** podem ocorrer e, mais importante, como implementar técnicas de defesa eficazes.
 
 O código utiliza a plataforma [Ollama](https://ollama.com/) para rodar um modelo open-source localmente, permitindo que qualquer pessoa possa replicar os experimentos de forma segura e gratuita.
 

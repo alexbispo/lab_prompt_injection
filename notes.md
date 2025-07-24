@@ -26,3 +26,15 @@ Assistente Dummy: 37 falhas em 100 tentativas (37.0%)
 Assistente Sophisticated: 6 falhas em 100 tentativas (6.0%)
 Assistente Dummy with Reminder: 5 falhas em 100 tentativas (5.0%)
 Assistente Sophisticated with Reminder: 11 falhas em 100 tentativas (11.0%)
+
+Resumo Geral dos resultados:
+Assistente Dummy: 35 falhas em 100 tentativas (35.0%)
+Assistente Sophisticated: 11 falhas em 100 tentativas (11.0%)
+Assistente Dummy with Reminder: 2 falhas em 100 tentativas (2.0%)
+Assistente Sophisticated with Reminder: 10 falhas em 100 tentativas (10.0%)
+
+Resumo Geral dos resultados:
+Assistente Dummy: 36 falhas em 100 tentativas (36.0%)
+Assistente Sophisticated: 9 falhas em 100 tentativas (9.0%)
+Assistente Dummy with Reminder: 6 falhas em 100 tentativas (6.0%)
+Assistente Sophisticated with Reminder: 10 falhas em 100 tentativas (10.0%)

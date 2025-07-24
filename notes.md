@@ -17,3 +17,12 @@ Assistente Protegido: 6 falhas em 100 tentativas (6.0%)
 Resumo Geral dos resultados:
 Assistente Dummy: 34 falhas em 100 tentativas (34.0%)
 Assistente sophisticated: 4 falhas em 100 tentativas (4.0%)
+
+
+
+
+Resumo Geral dos resultados:
+Assistente Dummy: 37 falhas em 100 tentativas (37.0%)
+Assistente Sophisticated: 6 falhas em 100 tentativas (6.0%)
+Assistente Dummy with Reminder: 5 falhas em 100 tentativas (5.0%)
+Assistente Sophisticated with Reminder: 11 falhas em 100 tentativas (11.0%)
